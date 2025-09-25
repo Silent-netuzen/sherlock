@@ -1,10 +1,13 @@
 APClips
-Coders Rank
+Carbonmade
+Dribbble
 Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -12,14 +15,12 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SoylentNews
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
-hunting
 kaskus
-opennet
 svidbook
 threads
-xHamster
