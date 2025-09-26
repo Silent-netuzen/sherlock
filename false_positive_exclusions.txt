@@ -1,6 +1,6 @@
 APClips
-Carbonmade
-Dribbble
+CGTrader
+Coders Rank
 Freelance.habr
 GNOME VCS
 Giphy
@@ -15,7 +15,6 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
 Topcoder
