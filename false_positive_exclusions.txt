@@ -1,5 +1,4 @@
 APClips
-CGTrader
 Coders Rank
 Freelance.habr
 GNOME VCS
