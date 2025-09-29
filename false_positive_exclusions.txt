@@ -1,7 +1,5 @@
 APClips
-Coders Rank
 Freelance.habr
-GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
@@ -19,7 +17,5 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-nnRU
 svidbook
 threads
-xHamster
