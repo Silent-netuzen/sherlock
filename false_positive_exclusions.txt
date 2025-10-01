@@ -1,10 +1,11 @@
 APClips
-CyberDefenders
+Coders Rank
 Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -19,7 +20,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-eintracht
 kaskus
 opennet
 svidbook
