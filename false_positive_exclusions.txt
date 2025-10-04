@@ -1,12 +1,13 @@
 APClips
 BoardGameGeek
 Coders Rank
+CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -24,3 +25,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
