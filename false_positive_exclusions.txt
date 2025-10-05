@@ -1,11 +1,10 @@
 APClips
 BoardGameGeek
 Coders Rank
-CyberDefenders
 Freelance.habr
+Freelancer
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
 LushStories
@@ -25,4 +24,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
