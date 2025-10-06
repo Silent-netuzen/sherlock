@@ -1,8 +1,8 @@
 APClips
 BoardGameGeek
 Coders Rank
+CyberDefenders
 Freelance.habr
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
