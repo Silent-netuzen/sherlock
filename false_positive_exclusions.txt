@@ -1,13 +1,11 @@
 APClips
-Academia.edu
 BoardGameGeek
-Coders Rank
-Freelance.habr
+CyberDefenders
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -22,6 +20,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
-xHamster
