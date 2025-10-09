@@ -1,12 +1,12 @@
 APClips
 BoardGameGeek
-CyberDefenders
+Coders Rank
+Freelance.habr
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -16,10 +16,12 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
+Steam Community (Group)
+Steam Community (User)
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
+xHamster
