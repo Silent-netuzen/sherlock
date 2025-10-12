@@ -1,7 +1,6 @@
 APClips
 BoardGameGeek
 Coders Rank
-CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
@@ -15,13 +14,13 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SpeakerDeck
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
 xHamster
