@@ -18,11 +18,11 @@ RocketTube
 SlideShare
 Splice
 Spotify
+Topcoder
+Trakt
 Weblate
 YandexMusic
-eintracht
 kaskus
-nnRU
 opennet
 svidbook
 threads
