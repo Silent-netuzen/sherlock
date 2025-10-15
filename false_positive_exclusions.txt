@@ -1,14 +1,13 @@
 APClips
 BoardGameGeek
 Coders Rank
-CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+Itch.io
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -19,11 +18,10 @@ SlideShare
 Splice
 Spotify
 Topcoder
-Trakt
 Weblate
 YandexMusic
 kaskus
 opennet
+programming.dev
 svidbook
 threads
-xHamster
