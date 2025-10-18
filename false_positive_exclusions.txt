@@ -1,14 +1,8 @@
 APClips
 BoardGameGeek
-Coders Rank
-Cults3D
-CyberDefenders
-Fosstodon
-Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -18,13 +12,10 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
+Tiendanube
 Weblate
 YandexMusic
 kaskus
-nnRU
 opennet
-phpRU
 svidbook
 threads
-xHamster
