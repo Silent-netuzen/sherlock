@@ -1,8 +1,13 @@
 APClips
+Archive of Our Own
 BoardGameGeek
+CyberDefenders
+Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
+LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -12,7 +17,7 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Tiendanube
+Topcoder
 Weblate
 YandexMusic
 kaskus
