@@ -1,5 +1,4 @@
 APClips
-Archive of Our Own
 BoardGameGeek
 CyberDefenders
 Freelance.habr
@@ -7,10 +6,10 @@ GNOME VCS
 Giphy
 HackerEarth
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
 Reddit
 Roblox
 RocketTube
@@ -24,3 +23,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
