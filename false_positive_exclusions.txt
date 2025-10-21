@@ -1,15 +1,15 @@
 APClips
 BoardGameGeek
-CyberDefenders
+CGTrader
+Coders Rank
 Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
-LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
-Pornhub
 Reddit
 Roblox
 RocketTube
@@ -18,9 +18,9 @@ Splice
 Spotify
 Topcoder
 Weblate
+Wordnik
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
