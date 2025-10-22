@@ -1,6 +1,6 @@
 APClips
+Audiojungle
 BoardGameGeek
-CGTrader
 Coders Rank
 Freelance.habr
 GNOME VCS
@@ -17,8 +17,8 @@ SlideShare
 Splice
 Spotify
 Topcoder
+Velomania
 Weblate
-Wordnik
 YandexMusic
 kaskus
 opennet
