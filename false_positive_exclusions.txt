@@ -1,28 +1,25 @@
 APClips
-Archive of Our Own
 BoardGameGeek
-CGTrader
 CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
+LessWrong
 LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
+Slack
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
