@@ -15,12 +15,10 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
-Venmo
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
 threads
-xHamster
