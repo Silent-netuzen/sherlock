@@ -1,5 +1,8 @@
 APClips
 BoardGameGeek
+Coders Rank
+CyberDefenders
+Eintracht Frankfurt Forum
 Freelance.habr
 GNOME VCS
 Giphy
@@ -8,6 +11,7 @@ LessWrong
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -22,3 +26,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
