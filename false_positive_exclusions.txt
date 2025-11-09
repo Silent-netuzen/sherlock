@@ -2,11 +2,9 @@ APClips
 Archive.org
 BoardGameGeek
 Coders Rank
-CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 LessWrong
 LushStories
