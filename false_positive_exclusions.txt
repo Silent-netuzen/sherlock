@@ -1,7 +1,6 @@
 APClips
 Archive.org
 BoardGameGeek
-Coders Rank
 CyberDefenders
 Freelance.habr
 GNOME VCS
@@ -15,12 +14,11 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-Slashdot
+RuneScape
 SlideShare
 Splice
 Spotify
 Weblate
-YandexMusic
 kaskus
 svidbook
 threads
