@@ -1,7 +1,6 @@
 APClips
 Archive.org
 BoardGameGeek
-CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
@@ -13,7 +12,6 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-Slack
 SlideShare
 Splice
 Spotify
