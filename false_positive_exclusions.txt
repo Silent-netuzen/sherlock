@@ -1,19 +1,15 @@
 APClips
 Archive.org
 BoardGameGeek
-Carbonmade
 Coders Rank
-CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
-LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -21,9 +17,11 @@ SlideShare
 Splice
 Spotify
 Weblate
+Wordnik
 YandexMusic
-furaffinity
 kaskus
+opennet
+phpRU
 svidbook
 threads
 xHamster
