@@ -1,13 +1,12 @@
 APClips
 Archive.org
 BoardGameGeek
-CyberDefenders
-DeviantART
+Coders Rank
 Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
-LushStories
+Itch.io
 Mydramalist
 PepperIT
 PocketStars
