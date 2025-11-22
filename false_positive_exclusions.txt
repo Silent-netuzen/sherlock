@@ -6,7 +6,7 @@ Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
-Itch.io
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -19,7 +19,7 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
-phpRU
 svidbook
 threads
