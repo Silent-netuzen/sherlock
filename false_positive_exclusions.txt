@@ -1,10 +1,13 @@
 APClips
 Archive.org
 BoardGameGeek
+Coders Rank
+Flipboard
 Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -16,9 +19,9 @@ SlideShare
 Splice
 Spotify
 Weblate
-Wordnik
 YandexMusic
 kaskus
 opennet
+phpRU
 svidbook
 threads
