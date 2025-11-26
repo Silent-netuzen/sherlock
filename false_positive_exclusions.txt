@@ -2,7 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Coders Rank
-Flipboard
+CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
@@ -20,8 +20,10 @@ Splice
 Spotify
 Weblate
 YandexMusic
+forum_guns
 kaskus
 opennet
 phpRU
 svidbook
 threads
+xHamster
