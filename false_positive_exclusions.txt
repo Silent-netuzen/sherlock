@@ -1,11 +1,10 @@
 APClips
 Archive.org
 BoardGameGeek
-Coders Rank
-CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 LessWrong
 LushStories
@@ -20,10 +19,8 @@ Splice
 Spotify
 Weblate
 YandexMusic
-forum_guns
 kaskus
 opennet
-phpRU
 svidbook
 threads
 xHamster
