@@ -1,10 +1,11 @@
 APClips
 Archive.org
 BoardGameGeek
+CyberDefenders
 Freelance.habr
 GNOME VCS
+GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 LessWrong
 LushStories
@@ -23,4 +24,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
