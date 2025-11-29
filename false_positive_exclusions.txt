@@ -21,6 +21,6 @@ Spotify
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
+xHamster
