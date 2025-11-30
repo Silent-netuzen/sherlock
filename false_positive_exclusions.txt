@@ -1,12 +1,13 @@
 APClips
 Archive.org
 BoardGameGeek
-CyberDefenders
+Coders Rank
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 LessWrong
 LushStories
 Mydramalist
@@ -21,6 +22,6 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
-xHamster
