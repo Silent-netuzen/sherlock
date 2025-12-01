@@ -2,15 +2,16 @@ APClips
 Archive.org
 BoardGameGeek
 Coders Rank
+CyberDefenders
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 LessWrong
 LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -25,3 +26,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
