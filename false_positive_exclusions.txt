@@ -1,8 +1,8 @@
 APClips
 Archive.org
 BoardGameGeek
-Coders Rank
 CyberDefenders
+DeviantART
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
@@ -11,7 +11,6 @@ HackerEarth
 LessWrong
 LushStories
 Mydramalist
-OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -20,6 +19,7 @@ RocketTube
 SlideShare
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
 kaskus
