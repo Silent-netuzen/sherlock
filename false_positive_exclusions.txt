@@ -1,9 +1,11 @@
 APClips
 Archive.org
-Audiojungle
 BoardGameGeek
+Code Snippet Wiki
 Coders Rank
+CyberDefenders
 Freelance.habr
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -21,10 +23,10 @@ RuneScape
 SlideShare
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
