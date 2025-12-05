@@ -2,10 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Coders Rank
 CyberDefenders
-Freelance.habr
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -19,14 +16,11 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 SlideShare
 Splice
 Spotify
-Strava
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
