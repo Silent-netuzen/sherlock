@@ -1,10 +1,10 @@
 APClips
 Archive.org
 BoardGameGeek
+CGTrader
 Code Snippet Wiki
 Coders Rank
 CyberDefenders
-Dribbble
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
@@ -13,7 +13,6 @@ HackerEarth
 Hubski
 LessWrong
 LushStories
-Mamot
 Mydramalist
 PepperIT
 PocketStars
@@ -29,4 +28,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
