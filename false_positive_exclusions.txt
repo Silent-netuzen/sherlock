@@ -1,22 +1,21 @@
 APClips
+Academia.edu
 Archive.org
-Audiojungle
 BoardGameGeek
 Code Snippet Wiki
 Coders Rank
-CyberDefenders
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -24,8 +23,10 @@ SlideShare
 Splice
 Spotify
 Weblate
+Weebly
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
+xHamster
