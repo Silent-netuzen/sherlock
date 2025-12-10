@@ -1,5 +1,4 @@
 APClips
-Academia.edu
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
@@ -15,7 +14,6 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -23,10 +21,7 @@ SlideShare
 Splice
 Spotify
 Weblate
-Weebly
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
-xHamster
