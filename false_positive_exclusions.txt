@@ -2,7 +2,6 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Coders Rank
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
@@ -23,5 +22,6 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
