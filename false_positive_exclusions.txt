@@ -3,22 +3,17 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Coders Rank
-CyberDefenders
 Fandom
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
-Gravatar
 HackerEarth
 Hubski
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -32,3 +27,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
