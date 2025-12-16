@@ -3,6 +3,7 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Coders Rank
+CyberDefenders
 Fandom
 Freelance.habr
 GNOME VCS
@@ -11,6 +12,7 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -20,11 +22,9 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Vero
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
