@@ -10,7 +10,6 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -25,5 +24,7 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
