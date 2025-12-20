@@ -2,7 +2,6 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Coders Rank
 Fandom
 Freelance.habr
 GNOME VCS
@@ -18,6 +17,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+Scribd
 SlideShare
 Splice
 Spotify
@@ -27,4 +27,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
