@@ -1,10 +1,8 @@
 APClips
-Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Fandom
 Freelance.habr
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -21,9 +19,11 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
 kaskus
 opennet
+phpRU
 svidbook
 threads
