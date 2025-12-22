@@ -1,8 +1,10 @@
 APClips
+Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Fandom
 Freelance.habr
+GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -16,14 +18,14 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
-Strava
 Weblate
 YandexMusic
 kaskus
-opennet
 phpRU
 svidbook
 threads
+xHamster
