@@ -9,7 +9,9 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+Itch.io
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -18,14 +20,13 @@ Reddit
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
 Weblate
 YandexMusic
 kaskus
+opennet
 phpRU
 svidbook
 threads
-xHamster
