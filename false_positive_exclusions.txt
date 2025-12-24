@@ -9,9 +9,7 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
-LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -30,3 +28,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
