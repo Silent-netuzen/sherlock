@@ -2,9 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 Fandom
-Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -22,6 +20,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+TryHackMe
 Weblate
 YandexMusic
 kaskus
@@ -29,3 +28,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
