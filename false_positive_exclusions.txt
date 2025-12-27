@@ -3,6 +3,7 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Fandom
+Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -18,9 +19,9 @@ Roblox
 RocketTube
 Scribd
 SlideShare
+Snapchat
 Splice
 Spotify
-TryHackMe
 Weblate
 YandexMusic
 kaskus
