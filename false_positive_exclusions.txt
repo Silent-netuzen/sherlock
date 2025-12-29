@@ -1,8 +1,9 @@
 APClips
-Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
+Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -23,7 +24,6 @@ Spotify
 Weblate
 YandexMusic
 kaskus
-opennet
 phpRU
 svidbook
 threads
