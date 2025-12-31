@@ -2,6 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
 Freelance.habr
 GNOME VCS
@@ -9,7 +10,6 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -25,6 +25,7 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+mercadolivre
 opennet
 phpRU
 svidbook
