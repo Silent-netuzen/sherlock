@@ -4,6 +4,7 @@ BoardGameGeek
 Code Snippet Wiki
 CyberDefenders
 Fandom
+Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -14,9 +15,11 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -29,3 +32,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
