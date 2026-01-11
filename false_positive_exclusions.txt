@@ -2,6 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
 Freelance.habr
 GNOME VCS
@@ -10,6 +11,8 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
+LushStories
+Motherless
 Mydramalist
 PepperIT
 PocketStars
@@ -23,8 +26,10 @@ Splice
 Spotify
 Weblate
 YandexMusic
+kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
+xHamster
