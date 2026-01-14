@@ -1,17 +1,17 @@
 APClips
-Archive of Our Own
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
-Freelance.habr
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -23,7 +23,6 @@ SlideShare
 Smule
 Splice
 Spotify
-WebNode
 Weblate
 YandexMusic
 kaskus
