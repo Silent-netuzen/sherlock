@@ -2,6 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
 Freelance.habr
 GNOME VCS
@@ -26,7 +27,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
-xHamster
