@@ -2,12 +2,12 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 Fandom
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hubski
 LessWrong
