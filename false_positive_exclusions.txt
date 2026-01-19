@@ -1,10 +1,9 @@
 APClips
 Archive.org
 BoardGameGeek
-CGTrader
 Code Snippet Wiki
-DEV Community
 Fandom
+Flipboard
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
