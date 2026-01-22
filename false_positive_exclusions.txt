@@ -1,6 +1,7 @@
 APClips
 Archive.org
 BoardGameGeek
+CGTrader
 Code Snippet Wiki
 Fandom
 Freelance.habr
@@ -14,16 +15,17 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
 Weblate
+YandexMusic
 kaskus
 mercadolivre
 phpRU
