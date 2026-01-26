@@ -5,6 +5,7 @@ Code Snippet Wiki
 CyberDefenders
 Fandom
 Freelance.habr
+GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -26,8 +27,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
-xHamster
