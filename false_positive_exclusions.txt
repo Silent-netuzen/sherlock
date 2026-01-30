@@ -3,13 +3,15 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 CyberDefenders
+Fandom
 Freelance.habr
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-ImgUp.cz
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -17,7 +19,6 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -27,6 +28,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
