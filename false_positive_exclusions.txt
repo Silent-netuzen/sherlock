@@ -7,9 +7,9 @@ Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -31,3 +31,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
