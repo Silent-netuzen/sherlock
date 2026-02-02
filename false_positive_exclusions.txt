@@ -7,7 +7,6 @@ Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 HackerEarth
 Hubski
 LessWrong
@@ -19,6 +18,7 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -27,8 +27,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
-xHamster
