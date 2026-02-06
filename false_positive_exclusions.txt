@@ -1,9 +1,7 @@
 APClips
-Archive of Our Own
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 Fandom
 Freelance.habr
 GNOME VCS
@@ -12,7 +10,6 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -20,7 +17,6 @@ Reddit
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
