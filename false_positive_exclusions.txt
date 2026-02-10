@@ -10,11 +10,9 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -28,7 +26,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
