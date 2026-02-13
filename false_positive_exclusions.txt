@@ -9,7 +9,6 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -17,14 +16,15 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 kaskus
 mercadolivre
@@ -32,4 +32,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
