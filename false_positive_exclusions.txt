@@ -9,13 +9,13 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+LushStories
 Mydramalist
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -26,6 +26,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
