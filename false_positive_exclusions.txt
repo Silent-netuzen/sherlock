@@ -1,15 +1,15 @@
 APClips
+Archive of Our Own
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
-Fandom
+CyberDefenders
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-LushStories
+LessWrong
 Mydramalist
 PepperIT
 PocketStars
