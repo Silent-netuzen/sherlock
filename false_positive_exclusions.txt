@@ -1,13 +1,14 @@
 APClips
 Archive.org
-Code Snippet Wiki
-Flipboard
+Carbonmade
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -30,4 +31,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
