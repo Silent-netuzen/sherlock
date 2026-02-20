@@ -1,14 +1,15 @@
 APClips
 Archive.org
-Carbonmade
+Audiojungle
+Code Snippet Wiki
+CyberDefenders
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
+Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
