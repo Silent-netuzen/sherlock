@@ -1,8 +1,6 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
-CyberDefenders
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
@@ -23,6 +21,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Tiendanube
 TryHackMe
 Weblate
 YandexMusic
