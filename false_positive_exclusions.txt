@@ -11,6 +11,7 @@ Hubski
 LessWrong
 LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -21,7 +22,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
 TryHackMe
 Weblate
 YandexMusic
@@ -31,3 +31,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
