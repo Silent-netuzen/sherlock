@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Code Snippet Wiki
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
