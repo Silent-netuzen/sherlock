@@ -2,7 +2,6 @@ APClips
 Archive.org
 Freelance.habr
 GNOME VCS
-GaiaOnline
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -21,6 +20,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Weblate
 YandexMusic
