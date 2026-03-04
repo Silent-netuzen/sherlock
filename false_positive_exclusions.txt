@@ -1,14 +1,12 @@
 APClips
 Archive.org
 Freelance.habr
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -29,3 +27,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
