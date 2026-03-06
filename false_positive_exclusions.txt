@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CyberDefenders
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
@@ -8,11 +7,13 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rarible
 Reddit
 Roblox
 RocketTube
@@ -21,13 +22,12 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Weblate
-YandexMusic
 kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
-xHamster
