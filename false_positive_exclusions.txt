@@ -6,6 +6,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -17,11 +18,9 @@ Rarible
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 Strava
@@ -30,7 +29,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
