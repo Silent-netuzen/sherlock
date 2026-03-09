@@ -1,15 +1,16 @@
 APClips
 Archive.org
-CyberDefenders
+Fosstodon
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hashnode
 Hubski
+Itch.io
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -29,6 +30,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
