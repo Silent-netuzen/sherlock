@@ -1,6 +1,6 @@
 APClips
 Archive.org
-Fosstodon
+Cults3D
 Freelance.habr
 GNOME VCS
 GeeksforGeeks
@@ -8,9 +8,7 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -22,6 +20,7 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Strava
@@ -34,3 +33,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
