@@ -4,7 +4,6 @@ Freelance.habr
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -23,10 +22,8 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 Weblate
-YandexMusic
 kaskus
 mercadolivre
 opennet
