@@ -12,7 +12,6 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -24,10 +23,10 @@ Splice
 Spotify
 TryHackMe
 Weblate
+YandexMusic
 kaskus
 mercadolivre
-opennet
+minds
 phpRU
 svidbook
 threads
-xHamster
