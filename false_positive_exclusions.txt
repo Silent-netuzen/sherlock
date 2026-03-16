@@ -26,7 +26,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-minds
+opennet
 phpRU
 svidbook
 threads
