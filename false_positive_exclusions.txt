@@ -1,14 +1,12 @@
 APClips
 Archive.org
 Freelance.habr
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -17,8 +15,10 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 TryHackMe
