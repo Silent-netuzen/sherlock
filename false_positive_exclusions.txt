@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Eintracht Frankfurt Forum
 Freelance.habr
 GeeksforGeeks
 Giphy
@@ -15,10 +16,8 @@ Reddit
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 TryHackMe
