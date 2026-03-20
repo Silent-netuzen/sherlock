@@ -1,11 +1,13 @@
 APClips
 Archive.org
-CyberDefenders
+CGTrader
+Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -30,4 +32,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
