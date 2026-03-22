@@ -1,6 +1,6 @@
 APClips
 Archive.org
-Freelance.habr
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -17,6 +17,7 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
