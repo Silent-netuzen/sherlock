@@ -23,6 +23,7 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+kaskus
 mercadolivre
 opennet
 phpRU
