@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CyberDefenders
 Freelance.habr
 GeeksforGeeks
 Giphy
@@ -16,6 +17,7 @@ Rarible
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -26,6 +28,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
