@@ -1,7 +1,7 @@
 APClips
-Academia.edu
 Archive.org
 DigitalSpy
+Dribbble
 Freelance.habr
 GeeksforGeeks
 Giphy
@@ -13,6 +13,7 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -25,9 +26,11 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+interpals
 kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
+xHamster
