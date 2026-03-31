@@ -1,7 +1,6 @@
+7Cups
 APClips
 Archive.org
-DigitalSpy
-Dribbble
 Freelance.habr
 GeeksforGeeks
 Giphy
@@ -29,8 +28,8 @@ YandexMusic
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
 threads
-xHamster
