@@ -1,7 +1,6 @@
 7Cups
 APClips
 Archive.org
-CyberDefenders
 Freelance.habr
 GeeksforGeeks
 Giphy
@@ -9,6 +8,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -25,7 +25,6 @@ TryHackMe
 Weblate
 YandexMusic
 interpals
-kaskus
 mercadolivre
 opennet
 phpRU
