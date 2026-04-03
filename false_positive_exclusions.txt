@@ -1,6 +1,7 @@
 7Cups
 APClips
 Archive.org
+CyberDefenders
 Freelance.habr
 GeeksforGeeks
 Giphy
@@ -12,6 +13,7 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -30,3 +32,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
