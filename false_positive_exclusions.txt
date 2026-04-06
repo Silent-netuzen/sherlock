@@ -1,13 +1,11 @@
 7Cups
 APClips
 Archive.org
-Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -27,9 +25,9 @@ TryHackMe
 Weblate
 YandexMusic
 interpals
+kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
-xHamster
