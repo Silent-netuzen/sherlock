@@ -2,8 +2,7 @@
 APClips
 Archive.org
 Bandcamp
-Cults3D
-Freelance.habr
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -14,6 +13,7 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -24,6 +24,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
@@ -33,3 +34,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
