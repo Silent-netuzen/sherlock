@@ -1,8 +1,9 @@
 7Cups
 APClips
+Archive of Our Own
 Archive.org
 Bandcamp
-CyberDefenders
+Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -23,6 +24,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
