@@ -1,7 +1,9 @@
 7Cups
 APClips
+Apple Discussions
 Archive.org
 Bandcamp
+CyberDefenders
 Freelance.habr
 GeeksforGeeks
 Giphy
@@ -13,7 +15,6 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -24,6 +25,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
@@ -33,4 +35,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
