@@ -3,7 +3,6 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-CyberDefenders
 Freelance.habr
 GeeksforGeeks
 Giphy
@@ -25,9 +24,9 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
+dailykos
 interpals
 kaskus
 mercadolivre
