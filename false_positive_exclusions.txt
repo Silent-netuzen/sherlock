@@ -3,14 +3,12 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-CyberDefenders
 Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -26,11 +24,11 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
 interpals
+kaskus
 mercadolivre
 opennet
 phpRU
