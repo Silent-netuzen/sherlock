@@ -3,11 +3,9 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Eintracht Frankfurt Forum
 Freelance.habr
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -16,6 +14,7 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -26,6 +25,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
