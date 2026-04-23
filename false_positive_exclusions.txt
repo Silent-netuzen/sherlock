@@ -9,11 +9,9 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
 LushStories
 Mydramalist
 PepperIT
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -24,11 +22,9 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
-eintracht
 interpals
 kaskus
 mercadolivre
