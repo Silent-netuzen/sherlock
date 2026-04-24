@@ -3,12 +3,15 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+CyberDefenders
+DEV Community
 Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -21,6 +24,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Tenor
 TryHackMe
 Weblate
 YandexMusic
