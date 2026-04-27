@@ -6,6 +6,7 @@ Archive.org
 Bandcamp
 Cults3D
 CyberDefenders
+Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -14,7 +15,6 @@ Hubski
 LessWrong
 LushStories
 Mydramalist
-OurDJTalk
 PepperIT
 Rarible
 Reddit
@@ -26,6 +26,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
