@@ -4,11 +4,10 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Cults3D
-CyberDefenders
 Freelance.habr
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -20,6 +19,7 @@ Rarible
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
