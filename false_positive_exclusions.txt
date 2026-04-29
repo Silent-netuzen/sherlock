@@ -4,10 +4,10 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+CyberDefenders
 Freelance.habr
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -19,14 +19,12 @@ Rarible
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
@@ -37,3 +35,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
