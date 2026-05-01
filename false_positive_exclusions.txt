@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -13,10 +12,11 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
 LushStories
 Mydramalist
+Outgress
 PepperIT
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -27,6 +27,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
