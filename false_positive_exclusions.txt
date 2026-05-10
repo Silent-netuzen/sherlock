@@ -1,11 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -18,12 +17,12 @@ LushStories
 Motherless
 Mydramalist
 PepperIT
-Pornhub
 Rarible
 Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -41,4 +40,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
