@@ -4,7 +4,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
+Cults3D
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -22,7 +22,6 @@ Reddit
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
