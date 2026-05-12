@@ -26,6 +26,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Velomania
 Weblate
@@ -35,6 +36,7 @@ igromania
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
