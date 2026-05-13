@@ -4,7 +4,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
+Dribbble
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -13,7 +13,6 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 Motherless
 Mydramalist
 PepperIT
@@ -26,7 +25,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 Velomania
 Weblate
@@ -36,7 +34,6 @@ igromania
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
