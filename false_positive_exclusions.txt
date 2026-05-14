@@ -4,7 +4,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Dribbble
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -12,7 +11,7 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
+LushStories
 Motherless
 Mydramalist
 PepperIT
