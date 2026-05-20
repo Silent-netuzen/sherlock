@@ -1,10 +1,8 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
-Audiojungle
 Bandcamp
 CyberDefenders
 Envato Forum
@@ -14,10 +12,10 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-LushStories
+LessWrong
 Mydramalist
 PepperIT
-Pornhub
+Rajce.net
 Rarible
 Reddit
 Roblox
