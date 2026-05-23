@@ -4,10 +4,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
+Cults3D
 Envato Forum
 Freelance.habr
-Freelancer
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -16,9 +15,11 @@ Hubski
 LessWrong
 LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 Rarible
 Reddit
+Replit.com
 Roblox
 RocketTube
 Scribd
