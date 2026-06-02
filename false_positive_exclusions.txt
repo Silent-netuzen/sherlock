@@ -1,11 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-Cults3D
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -17,11 +16,13 @@ LessWrong
 LushStories
 Mydramalist
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -30,6 +31,7 @@ Spotify
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
