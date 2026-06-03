@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Cults3D
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -15,6 +16,7 @@ Hubski
 LessWrong
 LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 Pornhub
 Rarible
@@ -22,16 +24,13 @@ Reddit
 Replit.com
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
-Smule
 Splice
 Spotify
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -43,3 +42,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
