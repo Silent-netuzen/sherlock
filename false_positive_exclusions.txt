@@ -1,11 +1,13 @@
 7Cups
 APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
 Cults3D
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -13,10 +15,7 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
-LushStories
 Mydramalist
-OurDJTalk
 PepperIT
 Pornhub
 Rarible
@@ -28,6 +27,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -42,4 +42,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
