@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -13,6 +12,7 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -21,6 +21,7 @@ Reddit
 Replit.com
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
