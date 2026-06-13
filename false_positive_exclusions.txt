@@ -1,19 +1,22 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Cults3D
 Envato Forum
+Flipboard
 Freelance.habr
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 Pornhub
@@ -40,3 +43,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
