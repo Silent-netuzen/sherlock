@@ -1,23 +1,24 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
 Envato Forum
-Flipboard
 Freelance.habr
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 HackerEarth
 Hashnode
+Heavy-R
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 Pornhub
 Rarible
@@ -43,4 +44,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
