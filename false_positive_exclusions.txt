@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -10,17 +9,13 @@ Envato Forum
 Freelance.habr
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 HackerEarth
 Hashnode
-Heavy-R
 Hubski
 LessWrong
-LiveJournal
-LushStories
 Mydramalist
-OurDJTalk
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
