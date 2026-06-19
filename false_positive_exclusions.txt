@@ -5,8 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
+DeviantART
 Envato Forum
+Flipboard
 Freelance.habr
 GeeksforGeeks
 Giphy
@@ -17,12 +18,13 @@ LessWrong
 LushStories
 Mydramalist
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
 Roblox
+RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
@@ -40,4 +42,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
