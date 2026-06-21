@@ -6,8 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
-CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -43,3 +41,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
