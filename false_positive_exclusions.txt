@@ -1,10 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -22,8 +24,8 @@ Reddit
 Replit.com
 Roblox
 RocketTube
-RuneScape
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
@@ -33,7 +35,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-furaffinity
+hunting
 igromania
 interpals
 kaskus
