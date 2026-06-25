@@ -5,15 +5,18 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
+Houzz
 Hubski
+Itch.io
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 Rarible
@@ -23,6 +26,7 @@ Roblox
 RocketTube
 RuneScape
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
@@ -32,7 +36,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-hunting
 igromania
 interpals
 kaskus
