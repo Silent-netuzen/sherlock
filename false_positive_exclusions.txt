@@ -5,8 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-CyberDefenders
+Carbonmade
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -17,19 +16,21 @@ Houzz
 Hubski
 Itch.io
 LessWrong
+LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 Rarible
 Reddit
 Replit.com
 Roblox
 RocketTube
-RuneScape
 Scribd
 Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
