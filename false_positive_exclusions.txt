@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Cults3D
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -17,6 +18,7 @@ Hubski
 LessWrong
 LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 Rarible
 Reddit
@@ -27,6 +29,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
