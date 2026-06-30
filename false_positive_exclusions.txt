@@ -15,10 +15,10 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
+PCGamer
 PepperIT
 Pornhub
 Rarible
@@ -26,8 +26,8 @@ Reddit
 Replit.com
 Roblox
 RocketTube
+RuneScape
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
