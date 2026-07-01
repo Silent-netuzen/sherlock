@@ -5,8 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
-Bandcamp
 Cults3D
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -15,9 +15,11 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -26,7 +28,6 @@ Reddit
 Replit.com
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -45,3 +46,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
