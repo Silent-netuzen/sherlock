@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -14,11 +15,9 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
-OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -31,6 +30,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
