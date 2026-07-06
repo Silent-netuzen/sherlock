@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -30,7 +29,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -39,7 +37,6 @@ authorSTREAM
 dailykos
 igromania
 interpals
-kaskus
 mercadolivre
 opennet
 phpRU
