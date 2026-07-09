@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,6 +15,7 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -29,7 +31,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
