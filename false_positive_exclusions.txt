@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -14,6 +15,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PCGamer
 PepperIT
