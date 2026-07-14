@@ -1,11 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -15,10 +16,13 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
+OurDJTalk
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
