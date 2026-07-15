@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
+Blogger
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -16,13 +16,12 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Mydramalist
-OurDJTalk
 PCGamer
 PepperIT
 Pornhub
+Rajce.net
 Rarible
 Reddit
 Replit.com
@@ -42,6 +41,7 @@ igromania
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
