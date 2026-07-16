@@ -1,27 +1,24 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Envato Forum
 Freelance.habr
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
-LushStories
 Mydramalist
 PCGamer
 PepperIT
-Pornhub
-Rajce.net
 Rarible
 Reddit
 Replit.com
@@ -41,7 +38,6 @@ igromania
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
