@@ -6,20 +6,21 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Chess
 Envato Forum
 Freelance.habr
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hashnode
 Hubski
 LessWrong
 LinkedIn
-LushStories
 Mydramalist
-OurDJTalk
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -29,6 +30,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Tenor
 TryHackMe
 Velomania
 Weblate
@@ -43,4 +45,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
