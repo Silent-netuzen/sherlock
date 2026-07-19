@@ -3,21 +3,22 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
-Chess
+Blogger
+Eintracht Frankfurt Forum
 Envato Forum
 Freelance.habr
 GeeksforGeeks
 Giphy
-Gravatar
 HackerEarth
 Hashnode
 Hubski
 LessWrong
 LinkedIn
+LushStories
 Mydramalist
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -30,10 +31,10 @@ Scribd
 SlideShare
 Splice
 Spotify
-Tenor
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -45,3 +46,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
