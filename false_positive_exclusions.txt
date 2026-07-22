@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,13 +14,12 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LinkedIn
 LushStories
 Mydramalist
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -39,7 +39,9 @@ igromania
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
 threads
+xHamster
