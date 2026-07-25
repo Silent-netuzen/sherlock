@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -26,12 +25,11 @@ Replit.com
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
