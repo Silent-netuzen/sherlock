@@ -1,12 +1,13 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Envato Forum
+Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -18,7 +19,6 @@ LushStories
 Mydramalist
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -36,10 +36,8 @@ authorSTREAM
 dailykos
 igromania
 interpals
-kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
-xHamster
