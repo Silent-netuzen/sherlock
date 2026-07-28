@@ -1,10 +1,13 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Chatujme.cz
+Cults3D
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -16,6 +19,7 @@ LessWrong
 LinkedIn
 LushStories
 Mydramalist
+NICommunityForum
 PCGamer
 PepperIT
 Pornhub
@@ -24,12 +28,12 @@ Reddit
 Replit.com
 Roblox
 RocketTube
-Scribd
 SlideShare
 Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
