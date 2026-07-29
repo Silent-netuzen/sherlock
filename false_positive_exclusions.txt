@@ -7,11 +7,12 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
-Cults3D
 Envato Forum
+F3.cool
 Freelance.habr
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hashnode
 Hubski
@@ -19,7 +20,6 @@ LessWrong
 LinkedIn
 LushStories
 Mydramalist
-NICommunityForum
 PCGamer
 PepperIT
 Pornhub
@@ -28,12 +28,14 @@ Reddit
 Replit.com
 Roblox
 RocketTube
+Scribd
+Signal
+Slack
 SlideShare
 Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -46,3 +48,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
