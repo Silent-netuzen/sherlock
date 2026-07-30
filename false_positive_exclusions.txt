@@ -7,12 +7,11 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
+CyberDefenders
 Envato Forum
 F3.cool
-Freelance.habr
 GeeksforGeeks
 Giphy
-Gravatar
 HackerEarth
 Hashnode
 Hubski
@@ -29,12 +28,9 @@ Replit.com
 Roblox
 RocketTube
 Scribd
-Signal
-Slack
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Weblate
 YandexMusic
