@@ -6,16 +6,16 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
-Cults3D
+CyberDefenders
 Envato Forum
 F3.cool
-Freelance.habr
 GeeksforGeeks
 Giphy
+Gumroad
 HackerEarth
 Hashnode
+Houzz
 Hubski
 LessWrong
 LinkedIn
@@ -34,6 +34,7 @@ SlideShare
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
