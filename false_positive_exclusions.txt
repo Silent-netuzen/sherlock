@@ -6,20 +6,20 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
+CGTrader
 Chatujme.cz
-CyberDefenders
 Envato Forum
 F3.cool
 Freelance.habr
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hashnode
 Houzz
 Hubski
 LessWrong
 LinkedIn
-LiveJournal
 LushStories
 Mydramalist
 PCGamer
@@ -36,7 +36,6 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
