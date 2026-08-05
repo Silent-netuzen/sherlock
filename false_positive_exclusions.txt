@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -6,24 +7,23 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-CGTrader
 Chatujme.cz
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 Freelance.habr
 GeeksforGeeks
 Giphy
-Gravatar
 HackerEarth
 Hashnode
 Houzz
 Hubski
-LessWrong
 LinkedIn
 LushStories
 Mydramalist
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -36,6 +36,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
