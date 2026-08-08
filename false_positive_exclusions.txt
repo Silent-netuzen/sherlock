@@ -6,7 +6,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Chatujme.cz
+CyberDefenders
 Envato Forum
 F3.cool
 Freelance.habr
@@ -17,6 +19,7 @@ Hashnode
 Houzz
 Hubski
 LinkedIn
+LushStories
 Mydramalist
 PCGamer
 PepperIT
@@ -46,4 +49,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
