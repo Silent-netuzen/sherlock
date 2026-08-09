@@ -6,9 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Chatujme.cz
-CyberDefenders
 Envato Forum
 F3.cool
 Freelance.habr
@@ -49,3 +47,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
