@@ -5,11 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
-Cults3D
-CyberDefenders
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 Freelance.habr
@@ -23,7 +19,6 @@ LessWrong
 LinkedIn
 LushStories
 Mydramalist
-OurDJTalk
 PCGamer
 PepperIT
 Rarible
@@ -37,10 +32,12 @@ SlideShare
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 kaskus
