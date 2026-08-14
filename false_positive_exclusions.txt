@@ -13,6 +13,7 @@ F3.cool
 Freelance.habr
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 HackerEarth
 Hashnode
 Houzz
@@ -29,11 +30,13 @@ Replit.com
 ReverbNation
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -47,4 +50,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
