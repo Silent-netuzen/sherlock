@@ -6,8 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
+Cults3D
 Envato Forum
 F3.cool
 Freelance.habr
@@ -30,13 +30,13 @@ Replit.com
 ReverbNation
 Roblox
 RocketTube
-RuneScape
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -50,3 +50,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
