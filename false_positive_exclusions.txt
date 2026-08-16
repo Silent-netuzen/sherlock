@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
-Cults3D
 Envato Forum
 F3.cool
 Freelance.habr
@@ -31,7 +30,6 @@ ReverbNation
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
@@ -50,4 +48,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
