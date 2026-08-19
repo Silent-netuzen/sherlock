@@ -17,6 +17,7 @@ Hashnode
 Houzz
 Hubski
 LinkedIn
+LushStories
 Mydramalist
 PCGamer
 PepperIT
@@ -30,7 +31,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
