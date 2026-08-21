@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Envato Forum
 F3.cool
@@ -16,12 +17,12 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
+Itch.io
 LinkedIn
 LushStories
 Mydramalist
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -40,7 +41,6 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 kaskus
 mercadolivre
@@ -48,4 +48,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
