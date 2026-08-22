@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Envato Forum
 F3.cool
@@ -17,7 +15,6 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LinkedIn
 LushStories
 Mydramalist
@@ -41,6 +38,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 kaskus
 mercadolivre
