@@ -7,12 +7,12 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
-Dribbble
+CyberDefenders
 Envato Forum
 F3.cool
-Freelance.habr
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 HackerEarth
 Hashnode
 Houzz
@@ -33,6 +33,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 TryHackMe
 Velomania
@@ -47,7 +48,5 @@ interpals
 kaskus
 mercadolivre
 opennet
-phpRU
 svidbook
 threads
-xHamster
