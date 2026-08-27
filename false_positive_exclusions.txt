@@ -6,13 +6,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Championat
 Chatujme.cz
-CyberDefenders
+DEV Community
 Envato Forum
 F3.cool
+Freelance.habr
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 HackerEarth
 Hashnode
 Houzz
@@ -33,7 +34,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 TryHackMe
 Velomania
@@ -41,6 +41,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -48,5 +49,6 @@ interpals
 kaskus
 mercadolivre
 opennet
+phpRU
 svidbook
 threads
