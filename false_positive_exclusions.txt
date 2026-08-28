@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,7 +7,7 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
-DEV Community
+CyberDefenders
 Envato Forum
 F3.cool
 Freelance.habr
@@ -21,9 +20,10 @@ Hubski
 LinkedIn
 LushStories
 Mydramalist
+Open Collective
+OurDJTalk
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -41,7 +41,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
