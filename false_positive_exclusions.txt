@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -13,7 +12,6 @@ CyberDefenders
 Envato Forum
 F3.cool
 Freelance.habr
-GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
@@ -26,21 +24,20 @@ Open Collective
 PCGamer
 PepperIT
 Pornhub
+Rajce.net
 Rarible
 Reddit
-Replit.com
 ReverbNation
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
