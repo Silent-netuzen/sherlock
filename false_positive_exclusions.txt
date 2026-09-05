@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,7 +13,6 @@ Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hashnode
 Houzz
 Hubski
@@ -25,7 +23,6 @@ Open Collective
 PCGamer
 PepperIT
 Pornhub
-Rarible
 Reddit
 ReverbNation
 Roblox
@@ -34,6 +31,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 TryHackMe
 Velomania
@@ -49,5 +47,6 @@ kaskus
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
 threads
