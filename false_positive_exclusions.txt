@@ -1,15 +1,13 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
-ChaturBate
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -24,12 +22,13 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Pornhub
+Pychess
 Rarible
 Reddit
 ReverbNation
 Roblox
 RocketTube
+Scribd
 SlideShare
 Splice
 Spotify
@@ -51,4 +50,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
