@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,7 +7,6 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
-ChaturBate
 CyberDefenders
 Envato Forum
 Freelance.habr
@@ -19,22 +17,18 @@ Hashnode
 Houzz
 Hubski
 LinkedIn
-LushStories
 Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
 Roblox
-RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
