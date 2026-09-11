@@ -5,9 +5,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
-CyberDefenders
+ChaturBate
+ColourLovers
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -16,13 +18,12 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LinkedIn
 Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Rajce.net
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -31,6 +32,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -41,6 +43,7 @@ fixya
 hunting
 igromania
 interpals
+kaskus
 mercadolivre
 opennet
 phpRU
