@@ -9,7 +9,6 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
-ColourLovers
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -19,7 +18,6 @@ Hashnode
 Houzz
 Hubski
 LinkedIn
-LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -29,10 +27,12 @@ Rarible
 Reddit
 ReverbNation
 Roblox
+RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
