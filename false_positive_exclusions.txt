@@ -10,6 +10,7 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -20,7 +21,6 @@ Houzz
 Hubski
 LessWrong
 LinkedIn
-LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -53,3 +53,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
