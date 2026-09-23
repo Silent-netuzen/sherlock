@@ -10,17 +10,19 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
-CyberDefenders
 Envato Forum
+Forum Ophilia
 Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hashnode
 Houzz
 Hubski
 LessWrong
 LinkedIn
+Linktree
 LushStories
 Mydramalist
 Open Collective
@@ -36,6 +38,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -53,4 +56,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
