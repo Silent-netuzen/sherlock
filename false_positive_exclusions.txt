@@ -12,7 +12,6 @@ Chatujme.cz
 ChaturBate
 CyberDefenders
 Envato Forum
-Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -25,6 +24,7 @@ Linktree
 LushStories
 Mydramalist
 Open Collective
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -55,3 +55,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
