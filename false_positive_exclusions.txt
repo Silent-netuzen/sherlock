@@ -12,6 +12,7 @@ Chatujme.cz
 ChaturBate
 CyberDefenders
 Envato Forum
+Freelance.habr
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -24,7 +25,6 @@ Linktree
 LushStories
 Mydramalist
 Open Collective
-OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -37,10 +37,10 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -55,4 +55,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
