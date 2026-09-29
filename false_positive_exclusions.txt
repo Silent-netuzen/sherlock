@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,8 +8,6 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
-CyberDefenders
 Envato Forum
 Freelance.habr
 GeeksforGeeks
@@ -27,7 +24,7 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Pornhub
+Rajce.net
 Rarible
 Reddit
 ReverbNation
@@ -37,10 +34,10 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
