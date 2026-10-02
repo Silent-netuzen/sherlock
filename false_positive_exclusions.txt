@@ -6,14 +6,19 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
+Dribbble
 Envato Forum
 Freelance.habr
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 HackerNews
 Hashnode
@@ -55,4 +60,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
