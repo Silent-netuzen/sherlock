@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,7 +10,8 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
-CyberDefenders
+Dribbble
+Eintracht Frankfurt Forum
 Envato Forum
 Freelance.habr
 GaiaOnline
@@ -56,3 +58,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
