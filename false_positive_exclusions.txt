@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -39,7 +37,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -53,8 +50,6 @@ interpals
 kaskus
 mercadolivre
 opennet
-phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
