@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,6 +10,7 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
 Freelance.habr
 GaiaOnline
@@ -35,6 +35,7 @@ Reddit
 ReverbNation
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -46,6 +47,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
