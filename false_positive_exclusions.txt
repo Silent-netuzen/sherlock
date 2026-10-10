@@ -1,17 +1,17 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 CyberDefenders
 Envato Forum
+Flipboard
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
@@ -35,11 +35,11 @@ Reddit
 ReverbNation
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -47,7 +47,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
@@ -58,3 +57,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
