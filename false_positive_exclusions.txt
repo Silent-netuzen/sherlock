@@ -6,12 +6,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 CyberDefenders
 Envato Forum
-Flipboard
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
@@ -47,8 +47,8 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+fl
 hunting
-igromania
 interpals
 kaskus
 mercadolivre
@@ -57,4 +57,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
