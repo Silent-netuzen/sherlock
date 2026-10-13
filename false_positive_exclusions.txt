@@ -1,13 +1,17 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
+CyberDefenders
 Envato Forum
 Freelance.habr
 GaiaOnline
@@ -18,6 +22,7 @@ HackerNews
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -26,12 +31,12 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -44,7 +49,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-fl
 hunting
 interpals
 kaskus
@@ -54,3 +58,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
