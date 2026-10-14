@@ -11,7 +11,6 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
-CyberDefenders
 Envato Forum
 Freelance.habr
 GaiaOnline
@@ -22,7 +21,6 @@ HackerNews
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LinkedIn
 Linktree
