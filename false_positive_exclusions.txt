@@ -27,6 +27,7 @@ Linktree
 LushStories
 Mydramalist
 Open Collective
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -39,7 +40,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -56,4 +56,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
