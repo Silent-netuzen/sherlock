@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,10 +6,8 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Envato Forum
 Freelance.habr
 GaiaOnline
@@ -27,10 +24,9 @@ Linktree
 LushStories
 Mydramalist
 Open Collective
-OurDJTalk
 PCGamer
+Pastebin
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -40,6 +36,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
