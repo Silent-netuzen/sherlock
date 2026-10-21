@@ -5,15 +5,17 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blipfoto
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
+CyberDefenders
 Envato Forum
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 HackerNews
 Hashnode
@@ -22,12 +24,10 @@ Hubski
 LessWrong
 LinkedIn
 Linktree
-LushStories
 Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -37,6 +37,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -44,6 +45,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 interpals
 kaskus
