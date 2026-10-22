@@ -1,21 +1,21 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blipfoto
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 CyberDefenders
 Envato Forum
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gravatar
 HackerEarth
 HackerNews
 Hashnode
@@ -24,7 +24,10 @@ Hubski
 LessWrong
 LinkedIn
 Linktree
+LushStories
 Mydramalist
+NationStates Nation
+NationStates Region
 Open Collective
 PCGamer
 PepperIT
@@ -37,7 +40,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -45,13 +47,12 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
-kaskus
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
