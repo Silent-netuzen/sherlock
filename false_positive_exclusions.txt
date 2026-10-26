@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -20,6 +19,7 @@ HackerNews
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -53,4 +53,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
