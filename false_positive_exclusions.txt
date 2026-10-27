@@ -1,11 +1,11 @@
-7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -14,12 +14,12 @@ Freelance.habr
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gumroad
 HackerEarth
 HackerNews
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -36,7 +36,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
