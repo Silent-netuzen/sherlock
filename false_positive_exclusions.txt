@@ -5,10 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
+Dribbble
 Envato Forum
 Freelance.habr
 GaiaOnline
@@ -19,12 +19,9 @@ HackerNews
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LinkedIn
 Linktree
-LiveJournal
-LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -48,6 +45,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 kaskus
 mercadolivre
@@ -56,3 +54,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
