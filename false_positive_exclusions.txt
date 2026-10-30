@@ -8,9 +8,7 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
-Dribbble
 Envato Forum
-Freelance.habr
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -22,6 +20,8 @@ Hubski
 LessWrong
 LinkedIn
 Linktree
+LiveJournal
+LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -37,15 +37,12 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 kaskus
 mercadolivre
