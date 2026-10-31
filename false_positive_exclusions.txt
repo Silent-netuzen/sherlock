@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,6 +8,7 @@ Championat
 Chatujme.cz
 ChaturBate
 Envato Forum
+Freelance.habr
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -20,7 +20,6 @@ Hubski
 LessWrong
 LinkedIn
 Linktree
-LiveJournal
 LushStories
 Mydramalist
 Open Collective
@@ -35,7 +34,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Vero
 YandexMusic
@@ -51,4 +49,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
