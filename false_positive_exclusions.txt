@@ -1,12 +1,15 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
 Freelance.habr
 GaiaOnline
@@ -34,6 +37,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Vero
 YandexMusic
