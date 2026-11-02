@@ -1,15 +1,11 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
-ChaturBate
-CyberDefenders
 Envato Forum
 Freelance.habr
 GaiaOnline
@@ -28,7 +24,6 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Rarible
 Reddit
 ReverbNation
 Roblox
@@ -39,6 +34,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
