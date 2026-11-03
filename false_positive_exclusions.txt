@@ -1,11 +1,13 @@
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
+ChaturBate
+CyberDefenders
 Envato Forum
 Freelance.habr
 GaiaOnline
@@ -16,6 +18,7 @@ HackerNews
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -24,6 +27,7 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
+Rarible
 Reddit
 ReverbNation
 Roblox
@@ -41,9 +45,11 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
