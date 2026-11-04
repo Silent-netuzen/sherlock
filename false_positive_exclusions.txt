@@ -1,24 +1,24 @@
+APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
 CyberDefenders
 Envato Forum
-Freelance.habr
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 HackerNews
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -49,9 +49,9 @@ igromania
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
