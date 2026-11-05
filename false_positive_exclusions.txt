@@ -3,25 +3,18 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-ArtStation
-Bandcamp
+Blogger
 Championat
 Chatujme.cz
-ChaturBate
-CyberDefenders
-Envato Forum
+Freelance.habr
 GaiaOnline
 GeeksforGeeks
-Giphy
-GitHub
 HackerEarth
 HackerNews
 Hashnode
-Houzz
 Hubski
 LessWrong
 LinkedIn
-Linktree
 LushStories
 Mydramalist
 Open Collective
@@ -36,7 +29,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -52,6 +44,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
 threads
-xHamster
