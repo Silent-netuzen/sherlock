@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -5,11 +6,9 @@ Archive.org
 Blogger
 Championat
 Chatujme.cz
-CyberDefenders
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
-GitHub
 HackerEarth
 HackerNews
 Hashnode
@@ -19,7 +18,6 @@ LinkedIn
 LushStories
 Mydramalist
 Open Collective
-OurDJTalk
 PCGamer
 PepperIT
 Rarible
@@ -48,3 +46,4 @@ opennet
 phpRU
 social.tchncs.de
 threads
+xHamster
