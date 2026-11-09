@@ -18,8 +18,10 @@ LinkedIn
 LushStories
 Mydramalist
 Open Collective
+Outgress
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -46,4 +48,3 @@ opennet
 phpRU
 social.tchncs.de
 threads
-xHamster
