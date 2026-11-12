@@ -5,6 +5,7 @@ Archive.org
 Blogger
 Championat
 Chatujme.cz
+DEV Community
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
@@ -28,6 +29,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
