@@ -1,16 +1,17 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+Audiojungle
 Championat
 Chatujme.cz
-DEV Community
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
 HackerEarth
 HackerNews
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -46,3 +47,4 @@ opennet
 phpRU
 social.tchncs.de
 threads
+xHamster
