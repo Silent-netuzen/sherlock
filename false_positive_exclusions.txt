@@ -3,7 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
 Championat
 Chatujme.cz
 Freelance.habr
@@ -11,7 +10,6 @@ GaiaOnline
 GeeksforGeeks
 HackerEarth
 HackerNews
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -30,7 +28,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -47,4 +44,3 @@ opennet
 phpRU
 social.tchncs.de
 threads
-xHamster
