@@ -14,11 +14,12 @@ Hashnode
 Hubski
 LessWrong
 LinkedIn
-LushStories
 Mydramalist
 Open Collective
+OurDJTalk
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -28,6 +29,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 TryHackMe
 Velomania
 Vero
@@ -44,3 +46,4 @@ opennet
 phpRU
 social.tchncs.de
 threads
+xHamster
