@@ -1,5 +1,4 @@
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
@@ -14,7 +13,9 @@ Hashnode
 Hubski
 LessWrong
 LinkedIn
+Linktree
 LushStories
+Minecraft
 Mydramalist
 Open Collective
 PCGamer
