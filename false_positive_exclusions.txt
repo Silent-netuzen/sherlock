@@ -1,7 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Freelance.habr
@@ -15,7 +17,6 @@ LessWrong
 LinkedIn
 Linktree
 LushStories
-Minecraft
 Mydramalist
 Open Collective
 PCGamer
@@ -42,7 +43,6 @@ igromania
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
