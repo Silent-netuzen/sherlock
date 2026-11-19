@@ -3,8 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Championat
 Chatujme.cz
 Freelance.habr
 GaiaOnline
@@ -14,6 +12,7 @@ HackerNews
 Hashnode
 Hubski
 LessWrong
+LibraryThing
 LinkedIn
 Linktree
 LushStories
@@ -21,6 +20,7 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
+Rajce.net
 Rarible
 Reddit
 ReverbNation
@@ -47,3 +47,4 @@ opennet
 phpRU
 social.tchncs.de
 threads
+xHamster
