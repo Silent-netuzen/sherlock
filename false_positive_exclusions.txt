@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
+CyberDefenders
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
@@ -12,7 +13,6 @@ HackerNews
 Hashnode
 Hubski
 LessWrong
-LibraryThing
 LinkedIn
 Linktree
 LushStories
@@ -20,7 +20,6 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Rajce.net
 Rarible
 Reddit
 ReverbNation
@@ -34,6 +33,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Weebly
 YandexMusic
 authorSTREAM
 dailykos
