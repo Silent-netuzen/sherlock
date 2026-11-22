@@ -2,8 +2,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
+CyberDefenders
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
@@ -14,6 +14,7 @@ Hubski
 LessWrong
 LinkedIn
 Linktree
+LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -27,6 +28,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
