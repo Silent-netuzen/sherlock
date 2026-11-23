@@ -1,9 +1,10 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
-CyberDefenders
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
@@ -28,6 +29,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 TryHackMe
 Velomania
@@ -41,6 +43,7 @@ igromania
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
