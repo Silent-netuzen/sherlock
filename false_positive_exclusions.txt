@@ -34,7 +34,6 @@ TryHackMe
 Velomania
 Vero
 YandexMusic
-authorSTREAM
 dailykos
 fixya
 hunting
