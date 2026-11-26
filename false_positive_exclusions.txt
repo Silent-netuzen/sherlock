@@ -3,8 +3,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
-CyberDefenders
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
@@ -33,7 +33,9 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
+authorSTREAM
 dailykos
 fixya
 hunting
@@ -45,3 +47,4 @@ opennet
 phpRU
 social.tchncs.de
 threads
+xHamster
