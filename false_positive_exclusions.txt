@@ -1,16 +1,15 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
+CyberDefenders
 Freelance.habr
 GaiaOnline
 GeeksforGeeks
 HackerEarth
 HackerNews
 Hashnode
-Houzz
 Hubski
 LessWrong
 LinkedIn
@@ -18,10 +17,8 @@ Linktree
 LushStories
 Mydramalist
 Open Collective
-OurDJTalk
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -45,9 +42,7 @@ igromania
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
 threads
-xHamster
